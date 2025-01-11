@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Eleni!</h1>
 
-
-- 🌱 I’m learning Fullstack Development with [IBM Full Stack Software Developer Professional Certificate](https://www.coursera.org/professional-certificates/ibm-full-stack-cloud-developer?utm_medium=sem&utm_source=gg&utm_campaign=B2C_EMEA__coursera_FTCOF_career-academy_pmax-multiple-audiences-country-multi&campaignid=20858198824&adgroupid=&device=c&keyword=&matchtype=&network=x&devicemodel=&adposition=&creativeid=&hide_mobile_promo&gad_source=1&gclid=CjwKCAjw68K4BhAuEiwAylp3krqNGBBAtp5qp-6vbQvL0pz9eYm82Prc7J6uwc9b4omIcdeDr5nXFhoCtYoQAvD_BwE)
-- 📬 How to reach me **eleni.chasioti.arch@gmail.com**
+- I am based in London
+- I am a Design Systems Analyst in Applied R + D at Foster and Partners
+- I am  currently learning Fullstack Development with [IBM Full Stack Software Developer Professional Certificate](https://www.coursera.org/professional-certificates/ibm-full-stack-cloud-developer?utm_medium=sem&utm_source=gg&utm_campaign=B2C_EMEA__coursera_FTCOF_career-academy_pmax-multiple-audiences-country-multi&campaignid=20858198824&adgroupid=&device=c&keyword=&matchtype=&network=x&devicemodel=&adposition=&creativeid=&hide_mobile_promo&gad_source=1&gclid=CjwKCAjw68K4BhAuEiwAylp3krqNGBBAtp5qp-6vbQvL0pz9eYm82Prc7J6uwc9b4omIcdeDr5nXFhoCtYoQAvD_BwE)
 
 
 <h3 align="left">Connect with me</h3>
