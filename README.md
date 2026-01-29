@@ -1,16 +1,83 @@
-<h1 align="center">Hi 👋, I'm Eleni!</h1>
+<div align="center">
 
-- I am based in London
-- I am a Design Systems Analyst in Applied R + D at Foster and Partners
-- I am  currently learning Fullstack Development with [IBM Full Stack Software Developer Professional Certificate](https://www.coursera.org/professional-certificates/ibm-full-stack-cloud-developer?utm_medium=sem&utm_source=gg&utm_campaign=B2C_EMEA__coursera_FTCOF_career-academy_pmax-multiple-audiences-country-multi&campaignid=20858198824&adgroupid=&device=c&keyword=&matchtype=&network=x&devicemodel=&adposition=&creativeid=&hide_mobile_promo&gad_source=1&gclid=CjwKCAjw68K4BhAuEiwAylp3krqNGBBAtp5qp-6vbQvL0pz9eYm82Prc7J6uwc9b4omIcdeDr5nXFhoCtYoQAvD_BwE)
+# Hi 👋, I'm Eleni Chasioti
 
+### Product Designer & Engineer
+*Building digital experiences that solve real problems*
 
-<h3 align="left">Connect with me</h3>
-<p align="left">
-<a href="https://linkedin.com/in/eleni-chasioti-948486194" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eleni-chasioti-948486194" height="30" width="40" /></a>
-</p>
+🏢 **Design Systems Analyst** at Foster + Partners (Applied R+D)  
+🌍 Based in **London, UK**  
+🎓 Teaching workshops at **The Bartlett School of Architecture, UCL**  
 
-<h3 align="left">Favorite Languages and Tools</h3>
-<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> </a> </p>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=elenichas&show_icons=true&locale=en&layout=compact" alt="elenichas" /></p>
+---
+
+## 🚀 What I Do
+
+I design and build **digital products** that make complex workflows feel effortless. Working at the intersection of **design and engineering**, I create everything from design systems and internal tools to full-scale web applications.
+
+- 🔬 **Design Systems Analysis** - Creating scalable, consistent user experiences
+- 🛠️ **Product Engineering** - React, TypeScript, Vue.js applications  
+- 👥 **User Research & Testing** - Understanding real user needs
+- 🎯 **Product Coordination** - Bridging design and engineering teams
+- 🏗️ **AEC Industry Experience** - 4+ years building specialized tools at Bryden Wood
+
+## 🎨 Design & Engineering Stack
+
+**Design & Prototyping**  
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
+![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
+
+**Frontend Development**  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+**Additional Skills**  
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Three.js](https://img.shields.io/badge/ThreeJs-black?style=for-the-badge&logo=three.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+## 📈 Recent Journey
+
+- **2024-Present:** Design Systems Analyst at **Foster + Partners**
+- **2020-2024:** Front End Developer → Senior Front End Developer at **Bryden Wood**
+- **2021-2022:** Associate Lecturer at **Anglia Ruskin University**
+- **Architecture Background:** Transitioned from spatial design to digital product design
+
+## 🌱 Currently Exploring
+
+- Advanced **Design Systems** methodologies
+- **Full-Stack Development** with [IBM Professional Certificate](https://www.coursera.org/professional-certificates/ibm-full-stack-cloud-developer)
+- **AI integration** in design workflows
+- Sustainable and accessible product development
+
+## 💫 Philosophy
+
+> *"Great products come from designers who can code and developers who truly understand users."*
+
+I believe technology should amplify human creativity, not replace it. Whether it's a design system that helps teams work more efficiently or a tool that opens up new creative possibilities, I'm always asking: **"How can this make someone's work more joyful?"**
+
+---
+
+<div align="center">
+
+### Let's Connect & Build Something Amazing
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/eleni-chasioti-948486194)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://your-portfolio-url.com)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eleni.chasioti@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs?username=elenichas&show_icons=true&locale=en&layout=compact&theme=default)
+
+</div>>
