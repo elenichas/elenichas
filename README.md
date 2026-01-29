@@ -73,11 +73,3 @@ I believe technology should amplify human creativity, not replace it. Whether it
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eleni.chasioti@gmail.com)
 
 </div>
-
----
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs?username=elenichas&show_icons=true&locale=en&layout=compact&theme=default)
-
-</div>>
