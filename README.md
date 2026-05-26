@@ -5,25 +5,25 @@
 ### Product Designer & Engineer
 *Building digital experiences that solve real problems*
 
-🏢 **Design Systems Analyst** at Foster + Partners (Applied R+D)  
-🌍 Based in **London, UK**  
-🎓 Teaching workshops at **The Bartlett School of Architecture, UCL**  
+**Design Systems Analyst** at Foster + Partners (Applied R+D)  
+ Based in **London, UK**  
+ Teaching workshops at **The Bartlett School of Architecture, UCL**  
 
 </div>
 
 ---
 
-## 🚀 What I Do
+##  What I Do
 
 I design and build **digital products** that make complex workflows feel effortless. Working at the intersection of **design and engineering**, I create everything from design systems and internal tools to full-scale web applications.
 
-- 🔬 **Design Systems Analysis** - Creating scalable, consistent user experiences
-- 🛠️ **Product Engineering** - React, TypeScript, Vue.js applications  
-- 👥 **User Research & Testing** - Understanding real user needs
-- 🎯 **Product Coordination** - Bridging design and engineering teams
-- 🏗️ **AEC Industry Experience** - 4+ years building specialized tools at Bryden Wood
+-  **Design Systems Analysis** - Creating scalable, consistent user experiences
+-  **Product Engineering** - React, TypeScript, Vue.js applications  
+-  **User Research & Testing** - Understanding real user needs
+-  **Product Coordination** - Bridging design and engineering teams
+-  **AEC Industry Experience** - 5+ years building specialized tools
 
-## 🎨 Design & Engineering Stack
+## Design & Engineering Stack
 
 **Design & Prototyping**  
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
@@ -42,31 +42,9 @@ I design and build **digital products** that make complex workflows feel effortl
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-## 📈 Recent Journey
-
-- **2024-Present:** Design Systems Analyst at **Foster + Partners**
-- **2020-2024:** Front End Developer → Senior Front End Developer at **Bryden Wood**
-- **2021-2022:** Associate Lecturer at **Anglia Ruskin University**
-- **Architecture Background:** Transitioned from spatial design to digital product design
-
-## 🌱 Currently Exploring
-
-- Advanced **Design Systems** methodologies
-- **Full-Stack Development** with [IBM Professional Certificate](https://www.coursera.org/professional-certificates/ibm-full-stack-cloud-developer)
-- **AI integration** in design workflows
-- Sustainable and accessible product development
-
-## 💫 Philosophy
-
-> *"Great products come from designers who can code and developers who truly understand users."*
-
-I believe technology should amplify human creativity, not replace it. Whether it's a design system that helps teams work more efficiently or a tool that opens up new creative possibilities, I'm always asking: **"How can this make someone's work more joyful?"**
-
----
-
 <div align="center">
 
-### Let's Connect & Build Something Amazing
+### Let's Connect 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/eleni-chasioti-948486194)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://your-portfolio-url.com)
