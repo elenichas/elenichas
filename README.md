@@ -7,7 +7,7 @@ I design and build complex digital products from discovery through production. W
 
 My work spans rapid code prototyping, design systems, 3D interfaces, AI-enabled workflows, and end-to-end product ownership - particularly for architecture, engineering, and specialist B2B tools.
 
-[Portfolio](https://echasioti.com) · [View CV](./assets/Eleni_Chasioti_Design_Engineer.pdf) · [LinkedIn](https://www.linkedin.com/in/eleni-chasioti-948486194/)
+[echasioti.com](https://echasioti.com) · [View CV](./assets/Eleni_Chasioti_Design_Engineer.pdf) · [LinkedIn](https://www.linkedin.com/in/eleni-chasioti-948486194/)
 
 ## What I do
 
