@@ -1,53 +1,51 @@
-<div align="center">
+# Eleni Chasioti
 
-# Hi 👋, I'm Eleni Chasioti
+**Design Engineer / UX Engineer**  
+*Product design + production engineering*
 
-### Product Designer & Engineer
-*Building digital experiences that solve real problems*
+I design and build complex digital products from discovery through production. With 5+ years of experience, I combine product design, user research, and interaction design with React, TypeScript, Next.js, and Three.js engineering.
 
-**Design Systems Analyst** at Foster + Partners (Applied R+D)  
- Based in **London, UK**  
- Teaching workshops at **The Bartlett School of Architecture, UCL**  
+My work spans rapid code prototyping, design systems, 3D interfaces, AI-enabled workflows, and end-to-end product ownership - particularly for architecture, engineering, and specialist B2B tools.
 
-</div>
+[echasioti.com](https://echasioti.com) · [View CV](./assets/Eleni_Chasioti_Design_Engineer.pdf) · [LinkedIn](https://www.linkedin.com/in/eleni-chasioti-948486194/)
 
----
+## What I do
 
-##  What I Do
+- **Design engineering:** code prototyping, interaction design, responsive UI, and component systems
+- **Product and research:** discovery, interviews, workshops, usability testing, and Agile delivery
+- **Front-end engineering:** React, Next.js, TypeScript, Three.js, Tailwind CSS, and Material UI
+- **Data and delivery:** REST, GraphQL, Node.js, schema design, Neon, Git, Azure, CI/CD, and Vitest
+- **Design systems:** Figma, design tokens, reusable components, and accessibility-aware UI
 
-I design and build **digital products** that make complex workflows feel effortless. Working at the intersection of **design and engineering**, I create everything from design systems and internal tools to full-scale web applications.
+## Experience
 
--  **Design Systems Analysis** - Creating scalable, consistent user experiences
--  **Product Engineering** - React, TypeScript, Vue.js applications  
--  **User Research & Testing** - Understanding real user needs
--  **Product Coordination** - Bridging design and engineering teams
--  **AEC Industry Experience** - 5+ years building specialized tools
+### Associate Design Systems Analyst
+**Design Engineering & R&D, Foster + Partners · Dec 2024 - Present · London**
 
-## Design & Engineering Stack
+- Lead internal digital products from discovery and rapid prototyping through implementation, deployment, and user testing.
+- Translate complex architectural, engineering, and environmental workflows into web tools, automation, and product experiences.
+- Build React and Next.js applications with TypeScript, Three.js, APIs, databases, and Azure-based delivery.
+- Lead applications end-to-end while coordinating contributors, stakeholders, priorities, and sprint scope.
+- Integrate AI-powered agents and AI-assisted design and coding workflows into product development.
 
-**Design & Prototyping**  
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
-![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
+### Design Engineer / Computational Designer
+**Bryden Wood · Nov 2020 - Nov 2024 · London**
 
-**Frontend Development**  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+- Owned specialist B2B products across workflow discovery, UX design, front-end development, deployment, testing, training, and support.
+- Turned specialised engineering processes and domain rules into automated digital workflows.
+- Designed in Figma and implemented directly in production, often working as both product designer and front-end engineer.
+- Delivered applications used by hundreds of expert users, reducing repetitive work and capturing organisational knowledge.
 
-**Additional Skills**  
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Three.js](https://img.shields.io/badge/ThreeJs-black?style=for-the-badge&logo=three.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+## Selected work
 
-<div align="center">
+- [Arden House](https://github.com/elenichas/arden-house-mobile) - a phone-first hotel guest prototype spanning reservations, room preferences, concierge services, and in-stay support.
+- [Yacht Concept Studio](https://github.com/elenichas/yacht-3d-configurator) - an interactive 3D yacht configurator for guided concept exploration and presentation.
+- [Custom Bookcase Designer](https://github.com/elenichas/Custombookcasedesignapp) - a browser-based 3D configurator with dimensional, layout, material, and export controls.
+- [3D Dimensions Tool](https://github.com/elenichas/3D-dimensions-tool) - a Three.js tool for viewing, interacting with, and measuring 3D objects.
+- [View Analysis Plugin](https://github.com/elenichas/view-analysis-plugin) - a Rhino/Grasshopper workflow combining ray-based analysis with a genetic algorithm.
+- [Cricket](https://github.com/elenichas/Cricket-Plugin-Master-thesis) - a C# Grasshopper toolkit developed through master's thesis research into Wave Function Collapse for building design.
 
-### Let's Connect 
+## Education
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/eleni-chasioti-948486194)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://your-portfolio-url.com)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eleni.chasioti@gmail.com)
-
-</div>
+- **MSc Architectural Computation**, The Bartlett School of Architecture, UCL
+- **Master of Architecture**, Aristotle University of Thessaloniki
