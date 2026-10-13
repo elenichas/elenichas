@@ -4,8 +4,6 @@
 
 I turn complicated workflows into digital tools that feel simple to use. You’ll usually find me somewhere between Figma and a React app, making an idea clickable, usable, and occasionally 3D.
 
-Currently building tools for architecture and engineering at **Foster + Partners**. Previously at **Bryden Wood**.
-
 🛠️ **My toolkit:** React, TypeScript, Next.js, Three.js, and Figma.  
 🔎 **Things I like exploring:** playful interactions, design systems, 3D interfaces, and AI-assisted workflows.
 
