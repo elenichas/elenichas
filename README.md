@@ -1,6 +1,6 @@
 # Hi, I’m Eleni 👋
 
-**Design engineer with an architecture background, based in London.**
+**UX/UI Engineer with an architecture background, based in London.**
 
 I turn complicated workflows into digital tools that feel simple to use. You’ll usually find me somewhere between Figma and a React app, making an idea clickable, usable, and occasionally 3D.
 
